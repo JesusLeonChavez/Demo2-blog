@@ -12,7 +12,7 @@ Sitio web, informativo
 Clonar el proyecto
 
 ```bash
-  git clone 
+  git clone https://github.com/JesusLeonChavez/Demo2-blog.git
 ```
 
 ## Rutas públicas
