@@ -16,9 +16,7 @@ Clonar el proyecto
 ```
 
 ## Rutas públicas
-Rutas accesibles para usuarios que no tienen una cuenta en CONTATEC:
-
-* Explorar Home
+Rutas accesibles:
 
 * Home
 
